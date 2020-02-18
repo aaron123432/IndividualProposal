@@ -1,3 +1,3 @@
 # IndividualProposal
 
-![](\\uml\CheckSystemComponent.io)
+![](\\uml\CheckSystemComponent.png)
