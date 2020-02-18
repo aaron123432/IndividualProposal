@@ -1,3 +1,3 @@
 # IndividualProposal
 
-![](//uml/CheckSystemComponent.png)
+![alt text](//uml/CheckSystemComponent.png)
