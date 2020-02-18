@@ -1,1 +1,3 @@
 # IndividualProposal
+
+![](\\uml\CheckSystemComponent.io)
