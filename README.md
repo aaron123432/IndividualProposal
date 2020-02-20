@@ -1,5 +1,5 @@
 # IndividualProposal
-
+![](uml/thumbnail_image1.png)
 Project Abstract
 ![](uml/CheckSystemComponent.png)
 The Project basically just getting the components and software information of the system for the user. The main purpose for the software is to tell user which hardware they are using and the software they installed in their computer. It can also tell which version of the software they are using due to sometimes users need to know those information and don't know where to find it. 
